@@ -1,7 +1,28 @@
-.dino{
+body {
+    background-color: #fafafa;
+    background-image: url(background.png);
+}
+
+.dino {
     width: 60px;
     height: 60px;
-    background: green;
+    background-image: url(dino.png);
     position: absolute;
     bottom: 0;
 }
+
+.cactus {
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    bottom: 0;
+    background-image: url(cactus.png);
+}
+
+#game-over {
+    text-shadow: 2px 2px black;
+    color: red;
+    text-align: center;
+}
+
+
