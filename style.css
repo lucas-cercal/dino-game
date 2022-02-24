@@ -18,3 +18,10 @@ body {
     bottom: 0;
     background-image: url(cactus.png);
 }
+
+.game-over {
+    text-shadow: 2px 2px black;
+    color: red;
+    text-align: center;
+}
+
