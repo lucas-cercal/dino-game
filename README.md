@@ -2,8 +2,15 @@
 
 Jogo do Dinossauro sem Internet do Google
 
-#### Clone do repositório
+### Clone do repositório
 `$ git clone https://github.com/lucascercal2512/dino-game.git`
+
+#### Ou
+
+### Download dos arquivos
+https://github.com/lucascercal2512/dino-game/archive/refs/heads/master.zip
+
+<br>
 
 
 Para acessar o jogo, abra o arquivo `index.html` e se divirta! 
